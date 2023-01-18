@@ -1,0 +1,1 @@
+This is a script to add the device enroller to the Network configuration Operators group. Assign this to your engineers who need access to IP configuration
